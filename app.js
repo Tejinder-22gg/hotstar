@@ -22,6 +22,7 @@ const createSlide = () => {
     h1.appendChild(document.createTextNode(movies[slideIndex].name));
     p.appendChild(document.createTextNode(movies[slideIndex].des));
     content.appendChild(h1);
+      // i have done some third work in outbound
     content.appendChild(p);
     slide.appendChild(content);
     slide.appendChild(imgElement);

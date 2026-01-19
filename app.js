@@ -14,6 +14,7 @@ const createSlide = () => {
     let content = document.createElement('div');
     let h1 = document.createElement('h1');
     let p = document.createElement('p');
+    //i have done some work in outbound
 
     //ataching all elements
     imgElement.appendChild(document.createTextNode(''));

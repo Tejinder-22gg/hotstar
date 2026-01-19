@@ -16,6 +16,7 @@ const createSlide = () => {
     let p = document.createElement('p');
     //i have done some work in outbound
 
+    // i have done some second work in outbound
     //ataching all elements
     imgElement.appendChild(document.createTextNode(''));
     h1.appendChild(document.createTextNode(movies[slideIndex].name));
